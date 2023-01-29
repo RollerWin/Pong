@@ -1,2 +1,1 @@
-# Pong
- 
+This is my version of the Pong game in C++
